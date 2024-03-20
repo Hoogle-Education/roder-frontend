@@ -1,0 +1,21 @@
+:root {
+  --primary: #FF9900;
+}
+
+header { 
+  font-family: 'Inter', sans-serif;
+  font-size: 3.0625rem;
+}
+
+main, footer {
+  font-family: 'Open Sans', sans-serif;
+}
+
+.highlight {
+  color: var(--primary);
+  font-weight: 700; /*bold*/
+}
+
+.main-highlight {
+  font-weight: 700;
+}
